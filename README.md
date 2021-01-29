@@ -11,3 +11,5 @@ To use:
 5) (Optional) Create additional folders and make an index file for each of your Pages that were moved to the organization.
 5) Make sure that GitHub Pages is turn on in settings-->options
 6) https://nefsc.github.io/NEFSC-SVC-GitHub.github.io/OldRepoName 
+
+Your url will be https://userName.github.io/OldRepoName which will now automatically redirect to the new location
